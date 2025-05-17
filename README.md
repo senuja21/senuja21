@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Senuja_V
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning phython ...
+- 👀 I’m interested in Gen AI
+- 🌱 I’m currently learning C++ ...
+- ✈️ I'm an Aeronautical eng UG
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord - Senuja_V#2005
+
 
 <!---
 senuja21/senuja21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
